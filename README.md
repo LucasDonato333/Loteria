@@ -76,7 +76,7 @@ Exemplo:
 |------|------|------|
 |   2  |   3  |  60  |
 
-![]{Loteria/Arquivos/Sequencia.gif}
+![](Loteria/Arquivos/Sequencia.gif)
 O código começa com a sequencia 1,2,3 e termina com a sequencia 58,59,60. O código só irá terminar quando p1 atingir 58. 
 Para sequencias com 6 digitos, ele deverá atingir 55, para terminar com 55,56,57,58,59,60.
 
