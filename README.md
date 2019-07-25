@@ -2,9 +2,9 @@
 
  Esse programa tem como objetivo criar todas as sequencias possiveis da loteria. 
 
-### Sequência Loteria
-**Objetivo**
-* _Números de 1 á 60_<br>
+
+**REQUISITOS**
+* _Criar números de 1 á 60_<br>
 * _Com 6 Digitos_<br>
 * _Sem repetição_<br>
 * _Em ordem crescente_<br>
