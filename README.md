@@ -4,7 +4,7 @@
 
 
 **REQUISITOS**
-* _Criar números de 1 á 60_<br>
+* _Gerar números de 1 á 60_<br>
 * _Com 6 Digitos_<br>
 * _Sem repetição_<br>
 * _Em ordem crescente_<br>
